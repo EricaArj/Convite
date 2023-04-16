@@ -1,4 +1,4 @@
-# Convinte de Formatura:
+# Convite de Formatura:
 
 
 O projeto tem o objetivo de mostrar informações relevantes sobre uma turma específica,e suas fotos.
